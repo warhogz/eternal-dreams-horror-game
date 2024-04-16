@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/BlockingMap.umap",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Box_2D62D872.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Box_D5B424ED.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Materials/Doors.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Stairs_9DA60B0D.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Stairs_AE7EE622.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Stairs_C8B3B5E9.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Stairs_253F1727.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Stairs_E589A74C.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/BlockingMap1.umap",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Rectangle_7EAA7509.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Box_96511F3E.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/_GENERATED/04uma/Stairs_66B97949.uasset",
+				"C:/Users/04uma/Documents/Unreal Projects/MyProject/Content/firstlevel.umap"
+			]
+		}
+	]
+}
